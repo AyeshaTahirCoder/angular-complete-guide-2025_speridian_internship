@@ -1,0 +1,2 @@
+Project Console: https://console.firebase.google.com/project/ng-deployment-example-111ed/overview
+Hosting URL: https://ng-deployment-example-111ed.web.app
