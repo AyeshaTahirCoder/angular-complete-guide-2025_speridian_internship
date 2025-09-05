@@ -1,0 +1,13 @@
+npm install
+
+npm start
+
+ng add @angular/ssr
+
+npm run build
+
+
+npm run serve:ssr:deployment-starting-project
+
+
+Node Express server listening on http://localhost:4000
